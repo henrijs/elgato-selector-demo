@@ -1,0 +1,19 @@
+{
+	"id": "dtn--dev-computer--target-both",
+	"question": "Do you want to record, stream or both?",
+	"answers": [
+
+		{
+			"text": "Desktop",
+			"target": "anode--60pro"
+		},
+		{
+			"text": "Laptop",
+			"target": "anode--60s"
+		},
+		{
+			"text": "Mac",
+			"target": "anode--60s"
+		}
+	]
+}

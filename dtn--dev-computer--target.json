@@ -1,0 +1,19 @@
+{
+	"id": "dtn--dev-computer--target",
+	"question": "Do you want to record, stream or both?",
+	"answers": [
+
+		{
+			"text": "Record",
+			"target": "dtn--dev-computer--target-record"
+		},
+		{
+			"text": "Stream",
+			"target": "dtn--dev-computer--target-stream"
+		},
+		{
+			"text": "Both",
+			"target": "dtn--dev-computer--target-both"
+		}
+	]
+}

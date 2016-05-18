@@ -1,0 +1,23 @@
+{
+	"id": "start",
+	"question": "What console/platform are you mainly playing on?",
+	"answers": [
+
+		{
+			"text": "Xbox One/PS4/Xbox360",
+			"target": "anode0"
+		},
+		{
+			"text": "PS3/Retro",
+			"target": "anode1"
+		},
+		{
+			"text": "PC",
+			"target": "dtn--dev-computer--target"
+		},
+		{
+			"text": "Tablet/iPhone/iPad",
+			"target": "anode0"
+		}
+	]
+}
